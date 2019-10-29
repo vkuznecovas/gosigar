@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	sigar "github.com/elastic/gosigar"
+	sigar "github.com/vkuznecovas/gosigar"
 	"github.com/stretchr/testify/assert"
 )
 

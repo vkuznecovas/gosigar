@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/elastic/gosigar"
+	"github.com/vkuznecovas/gosigar"
 )
 
 const output_format = "%-15s %4s %4s %5s %4s %-15s\n"

@@ -10,7 +10,7 @@ go:
 
 env:
   global:
-    - PROJ="github.com/elastic/gosigar"
+    - PROJ="github.com/vkuznecovas/gosigar"
 
 sudo: false
 

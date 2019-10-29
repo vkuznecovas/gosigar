@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/elastic/gosigar"
+	"github.com/vkuznecovas/gosigar"
 )
 
 func main() {
